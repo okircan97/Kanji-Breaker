@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 65d1dd749495b674f80057060eb57ad3
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Kanji.unity
+    guid: 9731447a8615b1d4098eed74d66cd118
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 0e986157622066741934e0364cc61111
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Kanji.unity
+    guid: 1b5fa7ae20af60441875ad2d414786b3
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: a26f32ccbce7bd94a82fe703d8b40bd7
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Kanji.unity
+    guid: 8d9c54dc07f34f5438a504fac2307345
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: a608e667262cf754a910692b26c74862
+  - enabled: 1
+    path: Assets/Scenes/Level 4 Kanji.unity
+    guid: 6e6ad48484e48c946963e31fdd0bbba1
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: c05ae4d9fbe924445b1c8e47a24e18c7
+  - enabled: 1
+    path: Assets/Scenes/Level 5 Kanji.unity
+    guid: 3264bb4b2662359488c7d74a60fc7c0a
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 5987aec5f350fc94192a524861793bb4
+  - enabled: 1
+    path: Assets/Scenes/Level 6 Kanji.unity
+    guid: 78474fdcfc3b1b446b26c455c035d02a
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 600a2144a82aa594586d119261996eea
+  - enabled: 1
+    path: Assets/Scenes/Level 7 Kanji.unity
+    guid: f599c58ca83930a49b178857d7873d47
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: b7bac4666990dd64abeb8a45d28c3630
+  - enabled: 1
+    path: Assets/Scenes/Level 8 Kanji.unity
+    guid: a23aaecfd58ab9147b5afd943ddef689
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: ac8f4ac7b56aa7a4b8d72f8b9105f34e
+  - enabled: 1
+    path: Assets/Scenes/Level 9 Kanji.unity
+    guid: 4f81385dbd9b9854dbbc2964f9962fed
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 6875ddff4d40e4547b85860fa6483020
+  - enabled: 1
+    path: Assets/Scenes/Level 10 Kanji.unity
+    guid: 34164060e2a83404faf01535c88f19c2
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: 7ae2168aa6f78a24faf9127fe39a82d9
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 3d8522f0bfb5ede489770e7d20d9e05e
+  - enabled: 1
+    path: Assets/Scenes/Kanji Collection.unity
+    guid: 0afe0aedc80ec6c4dbd98d2acf9dca1a
+  m_configObjects: {}
